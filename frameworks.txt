@@ -1,0 +1,23 @@
+Пишем что на нужно выучить для каждого отдельного фреймворка(библиотеки)
+
+Angular:
+
+- node.js (установить)
+- TypeScript
+- Webpack
+- MVC pattern
+- Angular
+
+React:
+
+- node.js (установить)
+- JSX препроцессор
+- Babel
+- Webpack
+- React
+
+Vue:
+
+- node.js (установить)
+- Webpack
+- Vue
